@@ -15,6 +15,8 @@ Some public computer system reading groups:
 
 ## General
 
+https://courses.cs.washington.edu/courses/cse590x/22wi/resources/
+
 https://www.bu.edu/rhcollab/events/bu-systems-bu%e2%99%bas-seminar-fall-2021/
 
 https://pages.cs.wisc.edu/~shivaram/cs744-fa21/
@@ -51,6 +53,8 @@ https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
 https://dsl.cis.upenn.edu/seminar/
 
+https://www.youtube.com/channel/UCDjWhwewESyX335Rp6B1PEw/videos
+
 https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 
 http://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
@@ -68,6 +72,8 @@ https://github.com/ucbrise/cs294-ai-sys-sp22
 https://github.com/mosharaf/eecs598
 
 https://remziarpacidusseau.wixsite.com/mlos
+
+http://alchem.usc.edu/ceng-seminar/
 
 ## Sys Security
 
